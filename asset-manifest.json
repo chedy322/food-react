@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/food-react/static/css/main.ca71c81d.css",
+    "main.js": "/food-react/static/js/main.70b37001.js",
+    "static/media/backg.jpg": "/food-react/static/media/backg.7a030620a2054bc9e52f.jpg",
+    "index.html": "/food-react/index.html",
+    "main.ca71c81d.css.map": "/food-react/static/css/main.ca71c81d.css.map",
+    "main.70b37001.js.map": "/food-react/static/js/main.70b37001.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca71c81d.css",
+    "static/js/main.70b37001.js"
+  ]
+}
