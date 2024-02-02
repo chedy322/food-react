@@ -1,0 +1,17 @@
+*{
+    box-sizing:0;
+  }
+  body{
+      margin:0% 10%;
+      height:100%;
+       background-image: url('../public/backg.jpg');
+      background-repeat:no-repeat;
+      background-size: cover;
+      background-clip:padding-box;
+      background-attachment: scroll;
+      image-rendering: pixelated;
+      image-rendering: -webkit-optimize-contrast;
+      
+      
+  }
+ 
